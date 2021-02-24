@@ -1,0 +1,5 @@
+https://github.com/lukePeavey/quotable
+
+
+
+API link :-   https://api.quotable.io/random?tags=technology,famous-quotes
